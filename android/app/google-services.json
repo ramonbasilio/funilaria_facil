@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66856585882",
+    "project_id": "funilariafacil",
+    "storage_bucket": "funilariafacil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66856585882:android:6ab96b0fc2d130c4e66d23",
+        "android_client_info": {
+          "package_name": "com.funilariafacil.app.funilaria_facil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtaKoLSvfBfFi50i9PtHEsmT2W5ujUFLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

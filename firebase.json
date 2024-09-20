@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "funilariafacil",
+                    "appId": "1:66856585882:android:6ab96b0fc2d130c4e66d23",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "funilariafacil",
+                    "configurations": {
+                        "android": "1:66856585882:android:6ab96b0fc2d130c4e66d23",
+                        "web": "1:66856585882:web:32b82fe26c405514e66d23"
+                    }
+                }
+            }
+        }
+    }
+}
